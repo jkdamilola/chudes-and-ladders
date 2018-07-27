@@ -8,7 +8,8 @@
 # clone the repo
 git clone https://github.com/jkdamilola/chutes-and-ladders.git --recursive
 
-# change directory into the repo's root folder. 
+# change directory into the repo's root folder.
+cd repo-root-folder
 ```
 
 ## Usage
