@@ -27,7 +27,7 @@ The sum of the minimum number of rolls required to win on each solvable board is
 The solution can be found [`here`](https://github.com/jkdamilola/chutes-and-ladders/blob/master/question-two.js)
 
 
-## Usage
+## How To Run
 
 ``` bash
 # To run question one
