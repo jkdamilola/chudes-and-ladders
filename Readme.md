@@ -16,7 +16,7 @@ cd repo-root-folder
 
 ### 1) Is it solvable?
 
-The total number of unsolvable boards in chutes_and_ladders.txt is: `1575`.
+The total number of unsolvable boards in `chutes_and_ladders.txt` is: `1575`.
 
 The solution can be found [`here`](https://github.com/jkdamilola/chutes-and-ladders/blob/master/question-one.js)
 
